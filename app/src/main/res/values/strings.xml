@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">luccasBar</string>
+    <string name="preco">Preço</string>
+    <string name="quant">Quantidade de ml</string>
+</resources>

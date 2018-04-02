@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">luccasBar</string>
+    <string name="preco">Precio</string>
+    <string name="quant">cantidad en ml</string>
+</resources>
